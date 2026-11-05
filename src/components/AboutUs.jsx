@@ -10,7 +10,7 @@ const team = [
     name: "Kalana Jayaweera",
     role: "ML Developer",
     image: kalana,
-    linkedin: "https://www.linkedin.com/in/kalanajayaweera0714/",
+    linkedin: "https://www.linkedin.com/in/kalanajayaweera/",
     github: "https://github.com/KalanJayy",
   },
   {
